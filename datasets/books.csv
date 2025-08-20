@@ -1,0 +1,32 @@
+book_id,title,author,publication_year,genre
+1,Introduction to Algorithms,Thomas H. Cormen,2009,"Computer
+Science"
+2,Electric Machinery Fundamentals,Stephen J. Chapman,2018,Electrical
+3,The Art of Electronics,Paul Horowitz,2015,Electronics
+4,Engineering Mechanics: Statics,R.C.Hibbeler,2020,Mechanical
+5,ReinforcedConcreteDesign,George F. Limbrunner,2017,Civil
+6,Database Systems : The Complete Book,Hector Garcia-Molina,2021,Computer Science
+7,Microelectronic Circuits,Adel S. Sedra,2016,Electronics
+8,Signals and Systems,Alan V. Oppenheim,1997,Electrical
+9,HeatTransfer : Principles and Applications,Yunus A. Cengel,2014,Mechanical
+10,Structural Analysis,Russell C. Hibbeler,2019,Civil
+11,Computer Networking : A Top-Down Approach,James F.Kurose,2020,Computer Science
+12,Power System Analysis and Design,J.Duncan Glover,2017,Electrical
+13,Digital Design and Computer Architecture,David Money  Harris,2012,Computer Science
+14,Mechanics of Materials,Ferdinand P. Beer,2015,Mechanical
+15,Geotechnical Engineering : Principles and Practices,Donald P. Coduto,2018,Civil
+16,Artificial Intelligence : A Modern Approach,Stuart Russell,2021,Computer Science
+17,Electronic Devices and Circuit Theory,Robert L. Boylestad,2019,Electronics
+18,Control Systems Engineering,Norman S. Nise,2016,Electrical
+19,Fluid Mechanics,Frank M. White,2014,Mechanical
+20,Transportation Engineering,C.Jotin Khisty,2017,Civil
+21,Operating System Concepts,Abraham Silberschatz,2018,Computer Science
+22,Digital Signal Processing,John G. Proakis,2013,Electrical
+23,Fundamentals of Electric Circuits,Charles K. Alexander,2020,Electronics
+24,Materials Science and Engineering,William D. Callister,2016,Mechanical
+25,Highway Engineering,Daniel J. Findley,2019,Civil
+26,DataStructures and Algorithms in Python,Michael T. Goodrich,2014,Computer Science
+27,Introduction to Embedded Systems,Edward Ashford Lee,2011,Electrical
+28,"PowerElectronics:Circuits,Devices and Applications",Muhammad H. Rashid,2017,Electrical
+29,Engineering Vibrations,Daniel J.Inman,2020,Mechanical
+30,Environmental Engineering,Howard S.Peavy,2015,Civil
